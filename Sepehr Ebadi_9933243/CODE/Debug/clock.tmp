@@ -1,0 +1,40 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega64"</DEVICE>
+ <WORKING_DIR>E:\assembly\clock\clock\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>E:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc</DIR>
+  <DIR>E:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>E:\assembly\clock\clock\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>E:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc\m64def.inc</FILE>
+  <FILE>E:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc\M64DEF.INC</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>E:\assembly\clock\clock\Debug\clock.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>clock.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>clock.map</FILE>
+  <FILE>clock.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>E:\assembly\clock\clock\main.asm</FILE><LINE>13</LINE></MAIN>
+  <TI0_ISR><FILE>E:\assembly\clock\clock\main.asm</FILE><LINE>70</LINE></TI0_ISR>
+  <here><FILE>E:\assembly\clock\clock\main.asm</FILE><LINE>42</LINE></here>
+  <separate_number><FILE>E:\assembly\clock\clock\main.asm</FILE><LINE>47</LINE></separate_number>
+  <tak_ragham><FILE>E:\assembly\clock\clock\main.asm</FILE><LINE>62</LINE></tak_ragham>
+  <do_ragahm><FILE>E:\assembly\clock\clock\main.asm</FILE><LINE>52</LINE></do_ragahm>
+  <loop><FILE>E:\assembly\clock\clock\main.asm</FILE><LINE>53</LINE></loop>
+  <end><FILE>E:\assembly\clock\clock\main.asm</FILE><LINE>67</LINE></end>
+  <next1><FILE>E:\assembly\clock\clock\main.asm</FILE><LINE>100</LINE></next1>
+  <next2><FILE>E:\assembly\clock\clock\main.asm</FILE><LINE>99</LINE></next2>
+  <next3><FILE>E:\assembly\clock\clock\main.asm</FILE><LINE>98</LINE></next3>
+  <next4><FILE>E:\assembly\clock\clock\main.asm</FILE><LINE>97</LINE></next4>
+  <next5><FILE>E:\assembly\clock\clock\main.asm</FILE><LINE>96</LINE></next5>
+ </LABELS>
+</ASSEMBLER_INFO>
